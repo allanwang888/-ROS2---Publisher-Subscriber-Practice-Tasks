@@ -49,4 +49,4 @@ Instead of generic text and a `'robot_news'` topic, choose a theme that interest
 * Run `colcon build` and `source` your workspace to verify that your themed nodes communicate successfully in the terminal.
 
 
-# ( If you are stuck, please do look at the resource code!)
+# ( If you are stuck, please look at the answer!)
