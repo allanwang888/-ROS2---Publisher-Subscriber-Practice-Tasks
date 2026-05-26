@@ -37,7 +37,7 @@ Your second task is to rewrite both the publisher and subscriber nodes from scra
 
 Instead of generic text and a `'robot_news'` topic, choose a theme that interests you.
 
-### ( Theme Inspiration Ideas ):
+### ( Choose ONE below and start coding ):
 * **(Space Mission)**: A satellite node publishing telemetry data (e.g., speed, altitude) to a ground control subscriber node on a `'satellite_data'` topic.
 * **(Smart Home)**: A temperature sensor node publishing room readings to a central smart thermostat subscriber node on a `'home_temp'` topic.
 * **(Gaming)**: A player node publishing live health points or high scores to a scoreboard subscriber node on a `'game_scores'` topic.
