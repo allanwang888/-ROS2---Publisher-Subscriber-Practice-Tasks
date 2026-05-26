@@ -6,7 +6,7 @@ Hi there, below are two tasks designed to test your understanding of nodes, time
 
 ## Task 1: Modify the Publisher
 
-Your first task is to modify the existing `simple_publisher.py` script to change its output data and frequency.
+Your first task is to modify the existing `simple_publisher.py` script to change its output data and frequency (NOTE: THE ONE THAT WE DID IN THE VIDEO - YOU HAVE TO MODIFY IT).
 
 ### ( Instructions ):
 1. Open your `simple_publisher.py` file in your code editor.
